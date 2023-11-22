@@ -1,0 +1,1 @@
+# nodejs-pix-generator-core
